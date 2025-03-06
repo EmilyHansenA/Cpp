@@ -47,10 +47,9 @@ int main()
         }
     }
 
-    cout << N;
     printArray(Cneg, ArrayC);
     printArray(Bpos, ArrayB);
-
+    printArray(N, Array);
 
     return 0;
 }
